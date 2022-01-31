@@ -1,2 +1,3 @@
 module Buscaminas {
+	exports Buscaminas;
 }
